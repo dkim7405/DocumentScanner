@@ -1,5 +1,4 @@
 # DocumentScanner
-***
 Program that performs document scanning using OpenCV.
 It takes an input image, processes it to find a document within the image, and then warps the document to make it appear as if it were scanned flat.
 ![image](https://github.com/dkim7405/DocumentScanner/assets/122648295/62ca861b-bed4-40c3-bf51-e7709a70a537)
