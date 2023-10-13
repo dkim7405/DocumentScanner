@@ -1,2 +1,2 @@
 # DocumentScanner
- Scan document from an image
+Program to scan document from an image
