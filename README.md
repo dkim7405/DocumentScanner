@@ -12,7 +12,7 @@ It takes an input image, processes it to find a document within the image, and t
 * It includes methods for image thresholding, finding the document blob, identifying corners, reordering corners, and displaying the scanned image.
 
 # Future Improvements
-"*" This program still needs fine tuning to work with different types of documents and lighting conditions.
+* This program still needs fine tuning to work with different types of documents and lighting conditions.
 * Creating a user interface for the program
 * Working on saving files (document)
 * Creating function to customize capturing the borders of document
