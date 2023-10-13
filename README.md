@@ -15,4 +15,5 @@ It takes an input image, processes it to find a document within the image, and t
 *Creating a user interface for the program
 *Working on saving files (document)
 *Creating function to customize capturing the borders of document
+*Document image quality improvement
 
